@@ -86,6 +86,7 @@ export const Button = styled.button<{ variant?: 'primary' | 'google' }>`
   padding: 14px 20px;
   border: none;
   border-radius: 10px;
+  margin: 0 auto;
   font-size: 16px;
   font-weight: 600;
   cursor: pointer;
